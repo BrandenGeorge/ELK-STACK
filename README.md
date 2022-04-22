@@ -103,7 +103,7 @@ A summary of the access policies in place can be found in the table below.
 | Name     | Publicly Accessible | Allowed IP Addresses |
 |----------|---------------------|----------------------|
 | Jump Box | Yes                           | 10.0.0.4    |
-|          |                     |                      |
+| Elk      | Yes / No            | 10.2.0.4:5601/My personal IP:9601 |
 |          |                     |                      |
 
 ### Elk Configuration
